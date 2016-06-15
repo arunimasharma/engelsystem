@@ -1,0 +1,2594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Engelsystem 2.0\n"
+"POT-Creation-Date: 2016-03-22 14:48+0100\n"
+"PO-Revision-Date: 2016-06-15 12:27+0530\n"
+"Last-Translator: Arunima Sharma <arunimaprakash@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: ur_IN\n"
+"X-Poedit-SearchPath-0: /Users/arunimas/workspace/projects/engelsystem\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/sys_menu.php:49
+msgid ""
+"Please enter your planned date of departure on your settings page to give us "
+"a feeling for teardown capacities."
+msgstr ""
+"ہمیں ٹیارڈون وسعتوں کے لئے ایک احساس دینے کے لئے آپ ترتیبات کے صفحے پر آپ کی "
+"روانگی کے مجوزہ تاریخ داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/sys_menu.php:56
+#, php-format
+msgid ""
+"You freeloaded at least %s shifts. Shift signup is locked. Please go to "
+"heavens desk to be unlocked again."
+msgstr ""
+"آپ کم از کم فریلویڈد %s شفٹس ۔ شفٹ سائن اپ مقفل ہے ۔ براہ مہربانی دوبارہ "
+"کھلا ہو آسمانوں ڈیسک کے لیے جاتے ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/sys_menu.php:63
+msgid ""
+"You are not marked as arrived. Please go to heaven's desk, get your angel "
+"badge and/or tell them that you arrived already."
+msgstr ""
+"آپ پہنچے کے طور پر نشان زد نہیں ۔ براہ مہربانی اپنے فرشتہ بلا آسمان کے ڈیسک "
+"کے لیۓ حاصل اور/یا اُنہیں بتاؤ کہ آپ پہلے ہی پہنچی تھی کہ جاتے ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/sys_menu.php:69
+msgid "You need to specify a tshirt size in your settings!"
+msgstr "آپ کو آپ کی سیٹنگوں میں ایک ٹشارٹ سائز کا اختصاص کرنے کی ضرورت ہے!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/sys_menu.php:75
+msgid ""
+"You need to specify a DECT phone number in your settings! If you don't have "
+"a DECT phone, just enter \"-\"."
+msgstr ""
+"آپ آپ کے ماحول میں ایک د فون نمبر کا اختصاص کرنے کی ضرورت ہے! اگر آپ کو ایک "
+"د فون نہیں ہے، بس داخل کریں \"-\" ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/sys_menu.php:136
+msgid "Admin"
+msgstr "ایڈمن"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/sys_template.php:363
+msgid "No data found."
+msgstr "کوئی کوائف نہیں پایا جاتا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:7
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:821
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:56
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:73
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:214
+msgid "Angeltypes"
+msgstr "انگیلٹیپ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:55
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:327
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:213
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:257
+msgid "Teams/Job description"
+msgstr "ٹیموں/تفصیل ملازمت"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:81
+#, php-format
+msgid "Angeltype %s deleted."
+msgstr "انگیلٹیپی %s حذف کر دی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:86
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:44
+#, php-format
+msgid "Delete angeltype %s"
+msgstr "انگیلٹیپی %s حذف کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:132
+msgid "Please check the name. Maybe it already exists."
+msgstr "نام پڑتال کریں ۔ ہو سکتا ہے کہ یہ پہلے سے ہی موجود ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:163
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:54
+#, php-format
+msgid "Edit %s"
+msgstr "تدوین کریں %s"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:199
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:200
+#, php-format
+msgid "Team %s"
+msgstr "ٹیم %s"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:219
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:171
+msgid "view"
+msgstr "منظر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:223
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:64
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_groups.php:23
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:18
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:91
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:77
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:52
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:63
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:174
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:225
+msgid "edit"
+msgstr "تدوین کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:224
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:37
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:56
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:19
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_user.php:117
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:220
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:48
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:93
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:5
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:12
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:78
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:15
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:53
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:64
+msgid "delete"
+msgstr "حذف کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:229
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:87
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:244
+msgid "leave"
+msgstr "چھوڑ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/angeltypes_controller.php:231
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:80
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:246
+msgid "join"
+msgstr "ملاپ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/shifts_controller.php:28
+msgid "Shift could not be found."
+msgstr "شفٹ نہیں مل سکا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/shifttypes_controller.php:25
+#, php-format
+msgid "Shifttype %s deleted."
+msgstr "شافٹیپی %s حذف کر دی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/shifttypes_controller.php:30
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:11
+#, php-format
+msgid "Delete shifttype %s"
+msgstr "شافٹیپی %s حذف کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/shifttypes_controller.php:53
+msgid "Shifttype not found."
+msgstr "شافٹیپی نہیں ملا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/shifttypes_controller.php:69
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:66
+msgid "Please enter a name."
+msgstr "ایک نام داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/shifttypes_controller.php:86
+msgid "Updated shifttype."
+msgstr "تازہ شافٹیپی ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/shifttypes_controller.php:92
+msgid "Created shifttype."
+msgstr "بنائی گئی شافٹیپی ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/shifttypes_controller.php:144
+msgid "Shifttypes"
+msgstr "شافٹیپاس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:19
+#, php-format
+msgid "There is %d unconfirmed angeltype."
+msgid_plural "There are %d unconfirmed angeltypes."
+msgstr[0] "সেখানে %d অসমর্থিত angeltype হয়."
+msgstr[1] "Es gibt %d nicht freigeschaltete Engeltypen!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:19
+msgid "Angel types which need approvals:"
+msgstr "فرشتہ قسمیں جو منظوری کی ضرورت ہے:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:29
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:37
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:69
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:77
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:133
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:189
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:259
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:296
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:304
+msgid "Angeltype doesn't exist."
+msgstr "انگیلٹیپی کا کوئی وجود نہیں ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:42
+msgid "You are not allowed to delete all users for this angeltype."
+msgstr "آپ اس انگیلٹیپی کے لئے تمام صارفین کو حذف کرنے کی اجازت نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:52
+#, php-format
+msgid "Denied all users for angeltype %s."
+msgstr "انگیلٹیپی %s کے لیے تمام صارفین کی تردید کی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:57
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:14
+msgid "Deny all users"
+msgstr "تمام صارفین سے انکار"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:85
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:117
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:125
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:173
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:181
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:236
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:251
+msgid "User angeltype doesn't exist."
+msgstr "صارف انگیلٹیپی کا کوئی وجود نہیں ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:90
+msgid "You are not allowed to confirm all users for this angeltype."
+msgstr "آپ اس انگیلٹیپی کے لئے تمام صارفین کی تصدیق کرنے کی اجازت نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:100
+#, php-format
+msgid "Confirmed all users for angeltype %s."
+msgstr "انگیلٹیپی %s کے لیے تمام صارفین کی تصدیق کی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:105
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:25
+msgid "Confirm all users"
+msgstr "تمام صارفین کی تصدیق کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:138
+msgid "You are not allowed to confirm this users angeltype."
+msgstr "آپ اس کے صارفین کی انگیلٹیپی کی تصدیق کرنے کی اجازت نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:146
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:197
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:267
+msgid "User doesn't exist."
+msgstr "صارف کا کوئی وجود نہیں ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:156
+#, php-format
+msgid "%s confirmed for angeltype %s."
+msgstr "%s %s کے لیے انگیلٹیپی کی تصدیق کی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:161
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:36
+msgid "Confirm angeltype for user"
+msgstr "انگیلٹیپی برائے صارف کی تصدیق کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:202
+msgid "You are not allowed to delete this users angeltype."
+msgstr "آپ اس کے صارفین کی انگیلٹیپی کو حذف کرنے کی اجازت نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:211
+#, php-format
+msgid "User %s removed from %s."
+msgstr "صارف %s %s سے ہٹا دیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:219
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:47
+msgid "Remove angeltype"
+msgstr "انگیلٹیپی ہٹانا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:231
+msgid "You are not allowed to set coordinator rights."
+msgstr "آپ کوآرڈینیٹر حقوق مرتب کرنے کی اجازت نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:243
+msgid "No coordinator update given."
+msgstr "کوآرڈینیٹر کا تجدید نہیں دیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:276
+#, php-format
+msgid "Added coordinator rights for %s to %s."
+msgstr "%s کے لیے شامل کی کوآرڈینیٹر حقوق برائے %s ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:276
+#, php-format
+msgid "Removed coordinator rights for %s from %s."
+msgstr "%s سے ہٹا دی کوآرڈینیٹر حقوق برائے %s ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:284
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:138
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:3
+msgid "Add coordinator rights"
+msgstr "کوآرڈینیٹر حقوق کا ا ضافہ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:284
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:130
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:3
+msgid "Remove coordinator rights"
+msgstr "کوآرڈینیٹر حقوق ہٹائیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:325
+msgid "Please select a user."
+msgstr "ایک صارف منتخب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:336
+#, php-format
+msgid "User %s added to %s."
+msgstr "صارف %s %s پر اضافہ ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:349
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:62
+msgid "Add user to angeltype"
+msgstr "صارف کے لیے انگیلٹیپی کا ا ضافہ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:358
+#, php-format
+msgid "You are already a %s."
+msgstr "آپ کو %s پہلے ہی ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:367
+#, php-format
+msgid "You joined %s."
+msgstr "آپ %s میں شمولیت اختیار کی ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_angeltypes_controller.php:382
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:76
+#, php-format
+msgid "Become a %s"
+msgstr "ایک %s ہو"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_driver_licenses_controller.php:24
+#, php-format
+msgid ""
+"You joined an angeltype which requires a driving license. Please edit your "
+"driving license information here: %s."
+msgstr ""
+"آپ جس ڈرائیونگ لائسنس کی ضرورت ہے ایک انگیلٹیپی میں شمولیت اختیار کی ۔ اپنے "
+"ڈرائیونگ لائسنس کی معلومات یہاں تدوین کریں: %s."
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_driver_licenses_controller.php:24
+msgid "driving license information"
+msgstr "ڈرائیونگ لائسنس معلومات"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_driver_licenses_controller.php:112
+msgid "Please select at least one driving license."
+msgstr "کم از کم ایک ڈرائیونگ لائسنس کا انتخاب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_driver_licenses_controller.php:121
+msgid "Your driver license information has been removed."
+msgstr "آپ ڈرائیور لائسنس کی معلومات کو ہٹا دیا گیا ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_driver_licenses_controller.php:133
+msgid "Your driver license information has been saved."
+msgstr "آپ ڈرائیور لائسنس کی معلومات محفوظ نہیں کی گئی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/user_driver_licenses_controller.php:141
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:15
+#, php-format
+msgid "Edit %s driving license information"
+msgstr "%s ڈرائیونگ لائسنس معلومات تدوین کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:46
+msgid "You cannot delete yourself."
+msgstr "کیا آپ اپنے آپ کو حذف نہیں کر سکتا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:55
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:272
+msgid "Your password is incorrect.  Please try it again."
+msgstr "آپ کا پاس ورڈ صحیح نہیں ۔  براہ مہربانی اسے دوبارہ کوشش کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:64
+msgid "User deleted."
+msgstr "صارف حذف کر دی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:72
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:26
+#, php-format
+msgid "Delete %s"
+msgstr "حذف کریں %s"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:111
+msgid "Please enter a valid number of vouchers."
+msgstr "ووچرز جائز نمبر داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:121
+msgid "Saved the number of vouchers."
+msgstr "ووچرز کی تعداد محفوظ نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:129
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:43
+#, php-format
+msgid "%s's vouchers"
+msgstr "%s کی ووچرز"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:142
+msgid "User not found."
+msgstr "صارف نہیں ملا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:192
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:80
+msgid "All users"
+msgstr "تمام صارفین"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:207
+msgid "Token is not correct."
+msgstr "ٹوکن صحیح نہیں ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:217
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:93
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:123
+msgid "Your passwords don't match."
+msgstr "آپ پاس ورڈ مشابہ نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:221
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:121
+msgid "Your password is to short (please use at least 6 characters)."
+msgstr "آپ کا پاس ورڈ کے لئے مختصر ہے (کم از کم 6 حروف استعمال کریں) ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:227
+msgid "Password could not be updated."
+msgstr "پاس ورڈ کی تازہ کاری نہیں کی جا سکی ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:229
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:125
+msgid "Password saved."
+msgstr "پاس ورڈ محفوظ نہیں ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:247
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:251
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:63
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:37
+msgid "E-mail address is not correct."
+msgstr "ای میل ایڈریس درست نہیں ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:255
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:67
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:41
+msgid "Please enter your e-mail."
+msgstr "برائے مہربانی اپنا ای میل درج کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:262
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:279
+msgid "Password recovery"
+msgstr "پاس ورڈ دوبارہ حاصل"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:262
+#, php-format
+msgid "Please visit %s to recover your password."
+msgstr "براہ کرم اپنے پاس ورڈ کی وصولی کے لیے %s دیکھیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/controller/users_controller.php:266
+msgid "We sent an email containing your password recovery link."
+msgstr "ہم نے اپنے پاس ورڈ کی بازیابی کے لنک پر مشتمل ایک ای میل بھیجا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/helper/email_helper.php:11
+#, php-format
+msgid "Hi %s,"
+msgstr "ہیلو %s,"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/helper/email_helper.php:11
+msgid "here is a message for you from the engelsystem:"
+msgstr "یہاں انگیلسیسٹیم سے آپ کے لئے ایک پیغام ہے:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/helper/email_helper.php:11
+msgid ""
+"This email is autogenerated and has not to be signed. You got this email "
+"because you are registered in the engelsystem."
+msgstr ""
+"یہ ای میل اوٹوگانراٹید ہے اور پر دستخط نہیں ہو کرنے کے لئے ہے ۔ آپ اس ای میل "
+"ملا ہے کیونکہ آپ انگیلسیسٹیم میں رجسٹرڈ ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:10
+msgid "A Shift you are registered on has changed:"
+msgstr "آپ پر رجسٹرڈ ہیں ایک شفٹ میں تبدیل کر دیا ہے:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:14
+#, php-format
+msgid "* Shift type changed from %s to %s"
+msgstr "* Shift قسم سے %s %s تبدیل کر دیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:19
+#, php-format
+msgid "* Shift title changed from %s to %s"
+msgstr "* Shift کے عنوان سے %s %s تبدیل کر دیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:24
+#, php-format
+msgid "* Shift Start changed from %s to %s"
+msgstr "* شفٹ شروع سے %s %s تبدیل کر دیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:29
+#, php-format
+msgid "* Shift End changed from %s to %s"
+msgstr "* شفٹ کے اختتام سے %s %s تبدیل کر دیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:34
+#, php-format
+msgid "* Shift Location changed from %s to %s"
+msgstr "* Shift محل وقوع سے %s %s تبدیل کر دیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:44
+msgid "The updated Shift:"
+msgstr "میں اپ ڈیٹ کی تبدیلی:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:53
+msgid "Your Shift has changed"
+msgstr "آپ Shift تبدیل کر دیا گیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:60
+msgid "A Shift you are registered on was deleted:"
+msgstr "آپ پر رجسٹرڈ ہیں ایک شفٹ حذف کردیا گیا تھا:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:69
+msgid "Your Shift was deleted"
+msgstr "آپ Shift حذف کردیا گیا تھا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:76
+msgid "You have been assigned to a Shift:"
+msgstr "آپ ایک تبدیلی کو سونپا گیا ہے:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:82
+msgid "Assigned to Shift"
+msgstr "Shift کو تفویض کیا گیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:90
+msgid "You have been removed from a Shift:"
+msgstr "آپ ایک تبدیلی سے ہٹا دیا گیا ہے:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/shifts_mailer.php:96
+msgid "Removed from Shift"
+msgstr "شفٹ سے ہٹا دیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/users_mailer.php:7
+msgid "Your account has been deleted"
+msgstr "آپ کے اکاؤنٹ کو حذف کر دیا گیا ہے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/mailer/users_mailer.php:7
+msgid ""
+"Your angelsystem account has been deleted. If you have any questions "
+"regarding your account deletion, please contact heaven."
+msgstr ""
+"آپ کے انگیلسیسٹیم کے اکاؤنٹ حذف کر دیا گیا ہے ۔ اگر آپ اپنا اکاؤنٹ حذف کرنے "
+"کے بارے میں کوئی سوالات ہیں تو آسمان سے رابطہ کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:4
+msgid "Active angels"
+msgstr "زیر عمل فرشتے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:28
+#, php-format
+msgid ""
+"At least %s angels are forced to be active. The number has to be greater."
+msgstr "کم از کم %s فرشتے فعال بنانے پر مجبور ہیں ۔ تعداد بڑھ کر ہوتی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:33
+msgid "Please enter a number of angels to be marked as active."
+msgstr "زیر عمل کے طور پر نشان زد کیا کو فرشتوں کی ایک بڑی تعداد داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:57
+msgid "Marked angels."
+msgstr "نشان والے فرشتوں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:59
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:129
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:164
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:251
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:29
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:46
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:65
+msgid "back"
+msgstr "واپس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:59
+msgid "apply"
+msgstr "لگائیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:69
+msgid "Angel has been marked as active."
+msgstr "فرشتہ کو زیر عمل کے طور پر نشان زد کیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:71
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:80
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:98
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:22
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:32
+msgid "Angel not found."
+msgstr "فرشتہ نہیں پایا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:78
+msgid "Angel has been marked as not active."
+msgstr "فرشتہ کو نہ زیر عمل کے طور پر نشان زد کیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:87
+msgid "Angel has got a t-shirt."
+msgstr "فرشتہ ایک شرٹ ہو گئی تھی ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:96
+msgid "Angel has got no t-shirt."
+msgstr "فرشتہ کوئی شرٹ ہو گئی تھی ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:135
+msgid "set active"
+msgstr "فعال سیٹ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:137
+msgid "remove active"
+msgstr "زیر عمل ہٹائیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:138
+msgid "got t-shirt"
+msgstr "شرٹ مل گیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:141
+msgid "remove t-shirt"
+msgstr "شرٹ کو ہٹانا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:159
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:156
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:171
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:186
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:172
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:179
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:70
+msgid "Sum"
+msgstr "حاصل جمع"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:166
+msgid "Search angel:"
+msgstr "فرشتہ تلاش کریں:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:167
+msgid "Show all shifts"
+msgstr "تمام شفٹوں نمایش کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:168
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:132
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:133
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:71
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:80
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_log.php:25
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_log.php:26
+msgid "Search"
+msgstr "تلاش کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:171
+msgid "How much angels should be active?"
+msgstr "کتنا فرشتے زیر عمل ہونا چاہیے؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:172
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:239
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:322
+msgid "Preview"
+msgstr "مشاہدہ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:176
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:136
+msgid "Nickname"
+msgstr "لقب"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:177
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:187
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:96
+msgid "Size"
+msgstr "سائز"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:178
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:4
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:236
+msgid "Shifts"
+msgstr "تبدیلی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:179
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:311
+msgid "Length"
+msgstr "لمبائی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:180
+msgid "Active?"
+msgstr "زیر عمل؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:181
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:94
+msgid "Forced"
+msgstr "جبری"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:182
+msgid "T-shirt?"
+msgstr "شرٹ؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:185
+msgid "Shirt statistics"
+msgstr "قمیض کے اعداد و شمار"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:188
+msgid "Needed shirts"
+msgstr "ضرورت شرٹ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_active.php:189
+msgid "Given shirts"
+msgstr "دی گئی شرٹ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:4
+msgid "Arrived angels"
+msgstr "آنے والی فرشتے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:19
+msgid "Reset done. Angel has not arrived."
+msgstr "پھر سیٹ کیا جاتا ہے ۔ فرشتہ نہیں پہنچی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:29
+msgid "Angel has been marked as arrived."
+msgstr "فرشتہ پہنچے کے طور پر نشان زد کیا گیا ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:65
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:8
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:19
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:30
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:41
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:52
+msgid "yes"
+msgstr "جی ہاں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:66
+msgid "reset"
+msgstr "پھر سیٹ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:66
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:147
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:162
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:177
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:227
+msgid "arrived"
+msgstr "پہنچے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:137
+msgid "Planned arrival"
+msgstr "آمد"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:138
+msgid "Arrived?"
+msgstr "پہنچے؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:139
+msgid "Arrival date"
+msgstr "آمد کی تاریخ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:140
+msgid "Planned departure"
+msgstr "مجوزہ روانگی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:145
+msgid "Planned arrival statistics"
+msgstr "آمد کے اعداد و شمار"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:148
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:163
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:178
+msgid "arrived sum"
+msgstr "حاصل جمع کو پہنچے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:154
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:169
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:184
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:27
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:76
+msgid "Date"
+msgstr "تاریخ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:155
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:170
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:185
+msgid "Count"
+msgstr "گنتی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:160
+msgid "Arrival statistics"
+msgstr "آمد کے اعداد و شمار"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_arrive.php:175
+msgid "Planned departure statistics"
+msgstr "مجوزہ روانگی کے اعداد و شمار"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:3
+msgid "Free angels"
+msgstr "مفت فرشتوں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:74
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:34
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:68
+msgid "Angeltype"
+msgstr "انگیلٹیپی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:77
+msgid "Only confirmed"
+msgstr "صرف اس بات کی تصدیق"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:85
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:181
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:312
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:168
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:146
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:153
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:86
+msgid "Nick"
+msgstr "نک"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:87
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:210
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:175
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:147
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:154
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:89
+msgid "DECT"
+msgstr "د"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:88
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:219
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:179
+msgid "Jabber"
+msgstr "بکبک کرنا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_free.php:89
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:184
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:177
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:258
+msgid "E-Mail"
+msgstr "ای میل"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_groups.php:3
+msgid "Grouprights"
+msgstr "گروپراگوںس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_groups.php:29
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:141
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:145
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:135
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:180
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:60
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:216
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:33
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:74
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:88
+msgid "Name"
+msgstr "نام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_groups.php:30
+msgid "Privileges"
+msgstr "استحقاق"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_groups.php:53
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:32
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:35
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:149
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:257
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:42
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:106
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:160
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:183
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:192
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:197
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:202
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:191
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:66
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:32
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:33
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:37
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:51
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:274
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:34
+msgid "Save"
+msgstr "محفوظ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_groups.php:54
+msgid "Edit group"
+msgstr "گروپ تدوین کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:4
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:136
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:181
+msgid "Frab import"
+msgstr "فرعب درآمد کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:24
+msgid "Webserver has no write-permission on import directory."
+msgstr "ویبسرور درآمد ڈائریکٹری پر کوئی تحریر اجازت ہوتی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:50
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:114
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:191
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:48
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:53
+msgid "Please select a shift type."
+msgstr "ایک شفٹ کی قسم منتخب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:57
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:121
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:198
+msgid "Please enter an amount of minutes to add to a talk's begin."
+msgstr "ایک منٹ کے لیے گفتگو کے اضافے کے لیے کی رقم داخل کریں شروع کی ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:64
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:128
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:205
+msgid "Please enter an amount of minutes to add to a talk's end."
+msgstr "گفتگو کے آخر تک اضافہ کرنے کے لیے منٹوں کی رقم داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:72
+msgid "No valid xml/xcal file provided."
+msgstr "فراہم کردہ کوئی جائز xml/اکال مسل نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:77
+msgid "File upload went wrong."
+msgstr "مسل اپ لوڈ غلط ہو گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:81
+msgid "Please provide some data."
+msgstr "کچھ کوائف مہیا کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:89
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:136
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:243
+msgid "File Upload"
+msgstr "مسل اپ لوڈ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:89
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:136
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:243
+msgid "Validation"
+msgstr "جواز دہی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:89
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:98
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:136
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:175
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:243
+msgid "Import"
+msgstr "درآمد"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:93
+msgid ""
+"This import will create/update/delete rooms and shifts by given FRAB-export "
+"file. The needed file format is xcal."
+msgstr ""
+"اس درآمد مرضی تخلیق کریں/تازہ کاری کریں/ختم کمرے اور کی طرف سے فرعب برآمد "
+"مسل دیا شفٹس ۔ ضرورت مسل وضع اکال ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:94
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:301
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:184
+msgid "Shifttype"
+msgstr "شافٹیپی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:95
+msgid "Add minutes to start"
+msgstr "شروع کرنے کے لئے منٹ کا ا ضافہ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:96
+msgid "Add minutes to end"
+msgstr "ختم کرنے کے لئے منٹ کا ا ضافہ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:97
+msgid "xcal-File (.xcal)"
+msgstr "اکال-فائل (.xcal)"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:107
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:181
+msgid "Missing import file."
+msgstr "غائب مسل درآمد کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:140
+msgid "Rooms to create"
+msgstr "تخلیق کرنے کے لئے کمرے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:144
+msgid "Rooms to delete"
+msgstr "خارج کرنے کے لئے کمرے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:148
+msgid "Shifts to create"
+msgstr "شفٹوں بنانے کے لیے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:150
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:159
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:168
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:238
+msgid "Day"
+msgstr "ڈے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:151
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:160
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:169
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:306
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:88
+msgid "Start"
+msgstr "شروع کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:152
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:161
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:170
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:307
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:96
+msgid "End"
+msgstr "اختتام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:153
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:162
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:171
+msgid "Shift type"
+msgstr "تبدیلی کی قسم"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:154
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:163
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:172
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:302
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:185
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:84
+msgid "Title"
+msgstr "عنوان"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:155
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:164
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:173
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:303
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:803
+msgid "Room"
+msgstr "کمرہ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:157
+msgid "Shifts to update"
+msgstr "تازہ کاری کے لیے شفٹوں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:166
+msgid "Shifts to delete"
+msgstr "شفٹوں حذف کرنا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_import.php:244
+msgid "It's done!"
+msgstr "یہ کیا ہے!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_log.php:3
+msgid "Log"
+msgstr "لاگ ان کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:8
+msgid "Edit news entry"
+msgstr "خبریں اندراج تدوین کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:28
+msgid "Author"
+msgstr "مصنف"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:29
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:157
+msgid "Subject"
+msgstr "موضوع"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:30
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:79
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:105
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:158
+msgid "Message"
+msgstr "پیغام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:31
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:159
+msgid "Meeting"
+msgstr "ملاقات"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:35
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:168
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:34
+msgid "Delete"
+msgstr "حذف کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:49
+msgid "News entry updated."
+msgstr "اپ ڈیٹ خبریں اندراج ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_news.php:58
+msgid "News entry deleted."
+msgstr "خبریں اندراج حذف کر دی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:3
+msgid "Answer questions"
+msgstr "جواب کے سوالات"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:13
+msgid "There are unanswered questions!"
+msgstr "دیے گئے سوالات ہیں!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:61
+msgid "Unanswered questions"
+msgstr "دیے گئے سوالات"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:63
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:70
+msgid "From"
+msgstr "سے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:64
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:71
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:19
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:24
+msgid "Question"
+msgstr "سوال"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:65
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:73
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:26
+msgid "Answer"
+msgstr "جواب"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:68
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:22
+msgid "Answered questions"
+msgstr "جواب کے سوالات"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_questions.php:72
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:25
+msgid "Answered by"
+msgstr "کی طرف سے جواب"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:4
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:816
+msgid "Rooms"
+msgstr "کمرے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:62
+msgid "This name is already in use."
+msgstr "یہ نام پہلے ہی زیر استعمال ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:89
+#, php-format
+msgid "Please enter needed angels for type %s."
+msgstr "%s قسم کے لیے درکار فرشتے داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:117
+msgid "Room saved."
+msgstr "محفوظ کمرے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:137
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:182
+msgid "Public"
+msgstr "عوام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:138
+msgid "Room number"
+msgstr "کمرہ نمبر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:143
+msgid "Needed angels:"
+msgstr "ضرورت فرشتے:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:158
+#, php-format
+msgid "Room %s deleted."
+msgstr "کمرے %s حذف کر دی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:166
+#, php-format
+msgid "Do you want to delete room %s?"
+msgstr "آپ کمرے %s حذف کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_rooms.php:176
+msgid "add"
+msgstr "ا ضافہ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:4
+msgid "Create shifts"
+msgstr "شفٹوں بنائیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:65
+msgid "Please select a location."
+msgstr "محل وقوع کا انتخاب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:72
+msgid "Please select a start time."
+msgstr "ایک وقت آغاز منتخب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:79
+msgid "Please select an end time."
+msgstr "ایک اختتامی وقت منتخب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:84
+msgid "The shifts end has to be after its start."
+msgstr "شفٹوں کے اختتام کے بعد اس کا آغاز ہونا چاہئے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:96
+msgid "Please enter a shift duration in minutes."
+msgstr "منٹ میں ایک شفٹ دورانیہ داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:104
+msgid "Please split the shift-change hours by colons."
+msgstr "براہ مہربانی shift-تبدیلی گھنٹے کولون سے الگ ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:109
+msgid "Please select a mode."
+msgstr "ایک موڈ منتخب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:122
+#, php-format
+msgid "Please check the needed angels for team %s."
+msgstr "%s کی ٹیم کے لیے درکار فرشتوں کی پڑتال کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:127
+msgid "There are 0 angels needed. Please enter the amounts of needed angels."
+msgstr "0 فرشتوں کی ضرورت ہیں ۔ مقدار درکار فرشتے داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:131
+msgid "Please select a mode for needed angels."
+msgstr "ضرورت تھی فرشتوں کے لئے ایک موڈ منتخب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:135
+msgid "Please select needed angels."
+msgstr "براہ مہربانی منتخب کریں فرشتوں کی ضرورت ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:253
+msgid "Time and location"
+msgstr "وقت اور مقام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:254
+msgid "Type and title"
+msgstr "قسم اور عنوان"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:255
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:316
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:189
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:110
+msgid "Needed angels"
+msgstr "ضرورت فرشتے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:308
+msgid "Mode"
+msgstr "موڈ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:309
+msgid "Create one shift"
+msgstr "ایک شفٹ بنائیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:310
+msgid "Create multiple shifts"
+msgstr "کثیر شفٹوں بنائیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:312
+msgid "Create multiple shifts with variable length"
+msgstr "کثیر شفٹوں متغیر کی لمبائی کے ساتھ بنا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:313
+msgid "Shift change hours"
+msgstr "تبدیلی کے اوقات تبدیل کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:317
+msgid "Take needed angels from room settings"
+msgstr "ضرورت تھی فرشتوں میں روم ترتیبات سے لے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_shifts.php:318
+msgid "The following angels are needed"
+msgstr "درج ذیل فرشتوں کی ضرورت ہے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_user.php:4
+msgid "All Angels"
+msgstr "تمام فرشتے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_user.php:21
+msgid "This user does not exist."
+msgstr "یہ صارف موجود نہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_user.php:41
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:185
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:178
+msgid "Please send me an email if my shifts change"
+msgstr "میرے شفٹوں میں تبدیل کرتے ہیں تو براہ مہربانی مجھے ایک ای میل بھیجیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_user.php:60
+msgid "Force active"
+msgstr "زیر عمل پر مجبور"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_user.php:79
+msgid ""
+"Please visit the angeltypes page or the users profile to manage users "
+"angeltypes."
+msgstr ""
+"انگیلٹیپ صفحہ یا صارفین پروفائل صارفین انگیلٹیپ کا انتظام کرنے کے لیے براہ "
+"مہربانی ملاحظہ کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/admin_user.php:200
+msgid "Edit user"
+msgstr "صارف تدوین کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_credits.php:3
+msgid "Credits"
+msgstr "کریڈٹ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:4
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:314
+msgid "Login"
+msgstr "لاگ ان"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:8
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:240
+msgid "Register"
+msgstr "رجسٹر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:12
+msgid "Logout"
+msgstr "لاگ آؤٹ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:52
+#, php-format
+msgid "Your nick &quot;%s&quot; already exists."
+msgstr "اپنے نک '%s' پہلے ہی موجود ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:56
+#, php-format
+msgid "Your nick &quot;%s&quot; is too short (min. 2 characters)."
+msgstr "اپنے نک \"%s\" بہت چھوٹا ہے (منٹ 2 کریکٹر) ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:77
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:50
+msgid "Please check your jabber account information."
+msgstr "آپ کی بکواس اکاؤنٹ معلومات کی پڑتال کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:86
+msgid "Please select your shirt size."
+msgstr "آپ کی قمیض کا سائز منتخب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:97
+#, php-format
+msgid "Your password is too short (please use at least %s characters)."
+msgstr "آپ کا پاس ورڈ بہت چھوٹا ہے (کم از کم استعمال کریں %s کریکٹر) ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:104
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:64
+msgid "Please enter your planned date of arrival."
+msgstr "آپ کی آمد کی منصوبہ بندی تاریخ داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:166
+msgid "Angel registration successful!"
+msgstr "فرشتہ رجسٹریشن کامیاب!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:173
+msgid ""
+"By completing this form you're registering as a Chaos-Angel. This script "
+"will create you an account in the angel task sheduler."
+msgstr ""
+"یہ فارم مکمل کر رہا ہے کی طرف سے آپ ایک افراتفری فرشتہ کے طور پر رجسٹر کر "
+"رہا ہے کر رہے ہیں ۔ یہ سکرپٹ آپ فرشتہ کے کام کے شادولر میں ایک اکاؤنٹ بنائیں "
+"گے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:190
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:171
+msgid "Planned date of arrival"
+msgstr "منصوبہ بندی کی آمد کی تاریخ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:193
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:181
+msgid "Shirt size"
+msgstr "قمیض کا سائز"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:198
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:313
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:272
+msgid "Password"
+msgstr "پاس‌ ورڈ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:201
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:273
+msgid "Confirm password"
+msgstr "پاس ورڈ تصدیق کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:204
+msgid "What do you want to do?"
+msgstr "آپ کیا کرنا چاہتے ہيں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:204
+msgid "Description of job types"
+msgstr "ملازمت کے اقسام کی تفصیل"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:205
+msgid ""
+"Restricted angel types need will be confirmed later by an archangel. You can "
+"change your selection in the options section."
+msgstr ""
+"محدود فرشتہ اقسام بعد ایک موئے کی طرف سے تصدیق کی جائے گی کی ضرورت ہے ۔ آپ "
+"کو آپ کے انتخاب کے اختیارات کے سیکشن میں تبدیل کر سکتے ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:213
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:176
+msgid "Mobile"
+msgstr "موبائل"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:216
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:174
+msgid "Phone"
+msgstr "فون"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:222
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:170
+msgid "First name"
+msgstr "پہلا نام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:225
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:169
+msgid "Last name"
+msgstr "نام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:230
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:173
+msgid "Age"
+msgstr "عمر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:233
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:180
+msgid "Hometown"
+msgstr "آبائی شہر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:236
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:167
+msgid "Entry required!"
+msgstr "اندراج کی ضرورت ہے!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:276
+msgid "Please enter a password."
+msgstr "ایک پاس ورڈ داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:280
+msgid ""
+"No user was found with that Nickname. Please try again. If you are still "
+"having problems, ask an Dispatcher."
+msgstr ""
+"کوئی صارف کے ساتھ اس کے عرفی نام پایا گیا ۔ براہ مہربانی دوبارہ کوشش کریں ۔ "
+"اگر آپ اب بھی مسائل کا سامنا کر رہے ہیں، ایک ڈسپیچر پوچھیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:284
+msgid "Please enter a nickname."
+msgstr "ایک عرفی نام داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:297
+msgid "Please sign up, if you want to help us!"
+msgstr "آپ ہماری مدد کرنا چاہتے ہیں تو براہ مہربانی اپ، سائن ان کریں!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:304
+msgid "Registration is disabled."
+msgstr "رجسٹریشن نااہل ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:316
+msgid "I forgot my password"
+msgstr "میں اپنا پاس ورڈ بھول گئے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:318
+msgid "Please note: You have to activate cookies!"
+msgstr "براہ مہربانی نوٹ کریں: اگر آپ کوکیز کو چالو کرنے کے لئے ہے!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:324
+msgid "What can I do?"
+msgstr "میں کیا کرسکتا ہوں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/guest_login.php:325
+msgid "Please read about the jobs you can do to help us."
+msgstr "براہ مہربانی آپ ہمیں مدد کر سکتے ہیں ملازمتوں کے بارے میں پڑھیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:4
+msgid "Messages"
+msgstr "پیغامات"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:25
+msgid "Select recipient..."
+msgstr "وصول کنندہ کو منتخب کریں..."
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:49
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:52
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:62
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:92
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_questions.php:16
+msgid "Unable to load user."
+msgstr "صارف لوڈ کرنے میں نااہل ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:64
+msgid "mark as read"
+msgstr "بطور خواندہ نشان زد کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:66
+msgid "delete message"
+msgstr "پیغام حذف کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:72
+#, php-format
+msgid "Hello %s, here can you leave messages for other angels"
+msgstr "ہیلو %s، یہاں کر سکتے ہیں آپ پیغامات کے لئے دوسرے فرشتے چھوڑ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:75
+msgid "New"
+msgstr "نئی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:77
+msgid "Transmitted"
+msgstr "پھیلتی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:78
+msgid "Recipient"
+msgstr "وصول کنندہ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:90
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:104
+msgid "Incomplete call, missing Message ID."
+msgstr "پیغام کی شناخت غائب نامکمل کال"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:97
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:111
+msgid "No Message found."
+msgstr "کوئی پیغام نہیں ملا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:118
+msgid "Transmitting was terminated with an Error."
+msgstr "ترسیل ایک نقص کے ساتھ ختم ہو گیا تھا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_messages.php:123
+msgid "Wrong action."
+msgstr "غلط عمل ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:4
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:298
+msgid "My shifts"
+msgstr "میرے شفٹوں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:24
+msgid "Key changed."
+msgstr "کلید تبدیل کر دیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:27
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:232
+msgid "Reset API key"
+msgstr "API کلید پھر سیٹ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:28
+msgid ""
+"If you reset the key, the url to your iCal- and JSON-export and your atom "
+"feed changes! You have to update it in every application using one of these "
+"exports."
+msgstr ""
+"اگر آپ کی کلید کو دوبارہ مرتب کریں، ویب ایڈریس پر آپ iCal - اور جساون-برآمد "
+"اور اپنے جوہری تبدیلیاں فیڈ! آپ اسے ان برآمدات میں سے ایک کا استعمال کرتے "
+"ہوئے ہر ایپلی کیشن میں تازہ کرنا ہوگا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:29
+msgid "Continue"
+msgstr "پروفائل"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:61
+msgid "Please enter a freeload comment!"
+msgstr "فریلتد تبصرہ داخل کریں!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:79
+msgid "Shift saved."
+msgstr "تبدیلی محفوظ نہیں ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:105
+msgid "Shift canceled."
+msgstr "منتقل کریں کو منسوخ کر دیا ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_myshifts.php:107
+msgid ""
+"It's too late to sign yourself off the shift. If neccessary, ask the "
+"dispatcher to do so."
+msgstr ""
+"یہ اپنے آپ کو اس تبدیلی کو دستخط کرنے بہت دیر ہو چکی ہے ۔ اگر ضروری ہو تو، "
+"ایسا کرنے کے لئے ڈسپیچر پوچھیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:3
+msgid "News comments"
+msgstr "خبریں تبصرے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:7
+msgid "News"
+msgstr "خبریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:11
+msgid "Meetings"
+msgstr "ملاقاتیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:66
+msgid "Comments"
+msgstr "تبصرے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:83
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:126
+msgid "Entry saved."
+msgstr "اندراج محفوظ ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:103
+msgid "New Comment:"
+msgstr "نیا تبصرہ:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:110
+msgid "Invalid request."
+msgstr "ناجائز کی درخواست ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_news.php:154
+msgid "Create news:"
+msgstr "خبر بنائیں:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_questions.php:3
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:29
+msgid "Ask an archangel"
+msgstr "ایک موئے پوچھیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_questions.php:28
+msgid "Unable to save question."
+msgstr "سوال محفوظ کرنے میں نااہل ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_questions.php:29
+msgid "You question was saved."
+msgstr "آپ سوال محفوظ کر لی گئی ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_questions.php:33
+msgid "Please enter a question!"
+msgstr "ایک سوال کے جواب داخل کریں!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_questions.php:40
+msgid "Incomplete call, missing Question ID."
+msgstr "سوال شناخت غائب نامکمل کال"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_questions.php:48
+msgid "No question found."
+msgstr "کوئی سوال نہیں پایا جاتا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:4
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:229
+msgid "Settings"
+msgstr "سیٹنگیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:72
+msgid "Please enter your planned date of departure."
+msgstr "آپ کی روانگی کے مجوزہ تاریخ داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:112
+msgid "Settings saved."
+msgstr "سیٹنگیں محفوظ نہیں ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:119
+msgid "-> not OK. Please try again."
+msgstr "-> ٹھیک نہیں ہے ۔ براہ مہربانی دوبارہ کوشش کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:127
+msgid "Failed setting password."
+msgstr "ناکام سیٹنگ پاس ورڈ ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:140
+msgid "Theme changed."
+msgstr "خیالیہ تبدیل کر دیا گیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:166
+msgid "Here you can change your user details."
+msgstr "یہاں آپ کو آپ کے صارف کی تفصیلات تبدیل کر سکتے ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:172
+msgid "Planned date of departure"
+msgstr "مجوزہ روانگی کی تاریخ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:182
+msgid "Please visit the angeltypes page to manage your angeltypes."
+msgstr ""
+"براہ مہربانی آپ انگیلٹیپ کا انتظام کرنے کے لئے انگیلٹیپ صفحہ ملاحظہ کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:188
+msgid "Here you can change your password."
+msgstr "یہاں آپ کو اپنا پاس ورڈ تبدیل کر سکتے ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:189
+msgid "Old password:"
+msgstr "پرانا لفظ شناخت:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:190
+msgid "New password:"
+msgstr "نیا پاس ورڈ:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:191
+msgid "Password confirmation:"
+msgstr "پاس ورڈ کی تصدیق:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:195
+msgid "Here you can choose your color settings:"
+msgstr "یہاں آپ اپنے رنگ، سیٹنگیں انتخاب کر سکتے ہیں:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:196
+msgid "Color settings:"
+msgstr "رنگ سیٹنگیں:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:200
+msgid "Here you can choose your language:"
+msgstr "یہاں آپ اپنی زبان کا انتخاب کر سکتے ہیں:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_settings.php:201
+msgid "Language:"
+msgstr "زبان:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:43
+msgid "Shift entry deleted."
+msgstr "اندراج حذف منتقل ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:45
+msgid "Entry not found."
+msgstr "اندراج نہیں ملا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:110
+msgid "Please select a room."
+msgstr "ایک کمرے کا انتخاب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:117
+msgid "Please select a shifttype."
+msgstr "ایک شافٹیپی کا انتخاب کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:124
+msgid "Please enter a valid starting time for the shifts."
+msgstr "تبادلے کے لیے ایک جائز آغاز وقت داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:131
+msgid "Please enter a valid ending time for the shifts."
+msgstr "تبادلے کے لیے ایک جائز اختتام وقت داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:136
+msgid "The ending time has to be after the starting time."
+msgstr "اختتام وقت آغاز وقت کے بعد ہونا چاہیئے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:144
+#, php-format
+msgid "Please check your input for needed angels of type %s."
+msgstr "آپ کے ان پٹ برائے %s قسم کی ضرورت تھی فرشتوں کی پڑتال کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:166
+msgid "Shift updated."
+msgstr "تبدیلی کی تازہ کاری ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:182
+msgid "This page is much more comfortable with javascript."
+msgstr "یہ صفحہ جاوا سکرپٹ کے ساتھ بہت زیادہ آرام دہ اور پرسکون ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:186
+msgid "Room:"
+msgstr "روم:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:187
+msgid "Start:"
+msgstr "شروع کریں:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:188
+msgid "End:"
+msgstr "اختتام:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:214
+msgid "Shift deleted."
+msgstr "شفٹ حذف کر دی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:219
+#, php-format
+msgid "Do you want to delete the shift %s from %s to %s?"
+msgstr "آپ منتقل کریں %s بطرف %s %s سے حذف کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:251
+msgid ""
+"You are not allowed to sign up for this shift. Maybe shift is full or "
+"already running."
+msgstr ""
+"آپ اس تبدیلی کے لئے سائن اپ کرنے کی اجازت نہیں ۔ ہو سکتا ہے کہ شفٹ پوری یا "
+"پہلے ہی چل رہا ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:298
+msgid "You are subscribed. Thank you!"
+msgstr "آپ کی تنظیم شریک ہیں ۔ شکريا!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:307
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:206
+msgid "Freeloader"
+msgstr "فریلویڈر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:337
+msgid "The administration has not configured any shifts yet."
+msgstr "انتظامیہ کسی بھی شفٹوں ابھی تشکیل نہیں کیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:344
+msgid "The administration has not configured any rooms yet."
+msgstr "انتظامیہ کسی بھی کمرے ابھی تشکیل نہیں کیا ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:357
+msgid "occupied"
+msgstr "پر قبضہ کر لیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:361
+msgid "free"
+msgstr "مفت"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:366
+msgid ""
+"The administration has not configured any angeltypes yet - or you are not "
+"subscribed to any angeltype."
+msgstr ""
+"انتظامیہ کسی بھی انگیلٹیپاس ابھی تک - تشکیل نہیں کیا یا آپ کسی انگیلٹیپی کی "
+"رکنیت سازی نہیں ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:618
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:755
+#, php-format
+msgid "%d helper needed"
+msgid_plural "%d helpers needed"
+msgstr[0] "%d مددگار کی ضرورت"
+msgstr[1] "%d  اچھا مددگار کی ضرورت"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:638
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:22
+msgid "Sign up"
+msgstr "سائن اپ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:641
+msgid "ended"
+msgstr "ختم ہو گیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:649
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:782
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:24
+#, php-format
+msgid "Become %s"
+msgstr "%s ہو"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:661
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:795
+msgid "Add more angels"
+msgstr "مزید فرشتے کا ا ضافہ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:803
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:239
+msgid "Time"
+msgstr "وقت"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:804
+msgid "Entries"
+msgstr "میں لکھے گئے مراسلے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:822
+msgid "Occupancy"
+msgstr "سکونت"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:823
+msgid ""
+"The tasks shown here are influenced by the preferences you defined in your "
+"settings!"
+msgstr ""
+"یہاں دکھائے گئے جو کام میں آپ کی ترتیبات متعین کردہ ترجیحات سے متاثر ہیں!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:823
+msgid "Description of the jobs."
+msgstr "ملازمتوں کی تفصیل ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:824
+msgid "Use new style if possible"
+msgstr "اگر ممکن ہو تو نئے طرز استعمال کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:826
+msgid "iCal export"
+msgstr "iCal برآمد"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:826
+#, php-format
+msgid ""
+"Export of shown shifts. <a href=\"%s\">iCal format</a> or <a href=\"%s"
+"\">JSON format</a> available (please keep secret, otherwise <a href=\"%s"
+"\">reset the api key</a>)."
+msgstr ""
+"دکھائے شفٹوں کی برآمد ۔ <a href=\"%s\">iCal وضع</a> یا <a href=\"%s\">جساون "
+"وضع</a> دستیاب (براہ مہربانی پوشیدہ رکھیں ورنہ <a href=\"%s\">api کلید سیٹ</"
+"a>) ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:827
+msgid "Filter"
+msgstr "فلٹر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:861
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:22
+msgid "All"
+msgstr "تمام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/pages/user_shifts.php:862
+msgid "None"
+msgstr "کوئی نہیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:28
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:192
+msgid "Unconfirmed"
+msgstr "غیر مصدقہ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:30
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:34
+msgid "Coordinator"
+msgstr "کوآرڈینیٹر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:32
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:36
+msgid "Member"
+msgstr "رکن"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:45
+#, php-format
+msgid "Do you want to delete angeltype %s?"
+msgstr "آپ انگیلٹیپی %s حذف کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:47
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:14
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:7
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:18
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:29
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:40
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:51
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:80
+msgid "cancel"
+msgstr "منسوخ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:61
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:217
+msgid "Restricted"
+msgstr "محدود"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:61
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:62
+msgid "Yes"
+msgstr "جی ہاں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:61
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:62
+msgid "No"
+msgstr "نہیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:62
+msgid "Requires driver license"
+msgstr "ڈرائیور لائسنس کی ضرورت ہے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:63
+msgid ""
+"Restricted angel types can only be used by an angel if enabled by an "
+"archangel (double opt-in)."
+msgstr ""
+"محدود فرشتہ اقسام صرف ایک فرشتہ کی طرف سے ایک موئے (ڈبل آپٹ-میں) اہل کی صورت "
+"کی طرف سے استعمال کیا جا سکتا ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:64
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:100
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:114
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:35
+msgid "Description"
+msgstr "تفصیل"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:65
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:36
+msgid "Please use markdown for the description."
+msgstr "تصریح برائے سُوت استعمال کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:77
+msgid "my driving license"
+msgstr "میرے ڈرائیونگ لائسنس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:83
+msgid ""
+"This angeltype requires a driver license. Please enter your driver license "
+"information!"
+msgstr ""
+"اس انگیلٹیپی ایک ڈرائیور لائسنس کی ضرورت ہے ۔ آپ کی ڈرائیور لائسنس معلومات "
+"داخل کریں!"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:86
+#, php-format
+msgid ""
+"You are unconfirmed for this angeltype. Please go to the introduction for %s "
+"to get confirmed."
+msgstr ""
+"آپ اس انگیلٹیپی کے لئے غیر مصدقہ ہیں ۔ براہ مہربانی تعارف %s اس بات کی تصدیق "
+"حاصل کرنے کے لئے جاؤ."
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:123
+msgid "confirm"
+msgstr "تصدیق کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:124
+msgid "deny"
+msgstr "منکر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:139
+msgid "remove"
+msgstr "ہٹائیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:155
+msgid "Driver"
+msgstr "ڈرائیور"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:156
+msgid "Has car"
+msgstr "کار ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:157
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:27
+msgid "Car"
+msgstr "کار"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:158
+msgid "3,5t Transporter"
+msgstr "3، 5t لدنیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:159
+msgid "7,5t Truck"
+msgstr "7، 5t ٹرک"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:160
+msgid "12,5t Truck"
+msgstr "12، 5t ٹرک"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:161
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:31
+msgid "Forklift"
+msgstr "فورکلافٹ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:166
+msgid "Coordinators"
+msgstr "رابطہ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:184
+msgid "Members"
+msgstr "ارکان"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:187
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:70
+msgid "Add"
+msgstr "شامل کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:194
+msgid "confirm all"
+msgstr "سب کی تصدیق کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:195
+msgid "deny all"
+msgstr "سب کا انکار"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:212
+msgid "New angeltype"
+msgstr "نیا انگیلٹیپی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:218
+msgid "Membership"
+msgstr "کی رکنیت"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:232
+msgid "FAQ"
+msgstr "اکثر پوچھے گئے سوالات"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:234
+msgid ""
+"Here is the list of teams and their tasks. If you have questions, read the "
+"FAQ."
+msgstr ""
+"ٹیموں اور ان کے کاموں کی فہرست یہاں ہے ۔ اگر آپ کے پاس سوالات ہوں، اکثر "
+"پوچھے گئے سوالات پڑھیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/AngelTypes_view.php:251
+msgid ""
+"This angeltype is restricted by double-opt-in by a team coordinator. Please "
+"show up at the according introduction meetings."
+msgstr ""
+"اس انگیلٹیپی کی طرف سے محدود ہے ڈبل آپٹ-میں ایک ٹیم کوآرڈینیٹر کی طرف سے "
+"ہے ۔ براہ مہربانی مطابق تعارفی اجلاس میں ظاہر ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:17
+msgid "Open questions"
+msgstr "اوپن سوالات"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Questions_view.php:31
+msgid "Your Question:"
+msgstr "اپنا سوال:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:17
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:165
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:167
+msgid "Freeloaded"
+msgstr "فریلویڈد"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:18
+msgid "Freeload comment (Only for shift coordination):"
+msgstr "فریلتد (صرف کے بارے میں رائے شفٹ کوآرڈینیشن):"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:23
+msgid "Edit shift entry"
+msgstr "شفٹ اندراج تدوین کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:26
+msgid "Angel:"
+msgstr "فرشتہ:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:27
+msgid "Date, Duration:"
+msgstr "تاریخ، دورانیہ:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:28
+msgid "Location:"
+msgstr "محل وقوع:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:29
+msgid "Title:"
+msgstr "عنوان:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:30
+msgid "Type:"
+msgstr "قسم:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftEntry_view.php:31
+msgid "Comment (for your eyes only):"
+msgstr "(کے لئے صرف اپنی آنکھوں) تبصرہ:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:6
+#, php-format
+msgid "created at %s by %s"
+msgstr "پر %s %s کی طرف سے پیدا کیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:8
+#, php-format
+msgid "edited at %s by %s"
+msgstr "پر %s %s کی طرف سے تدوین"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:74
+msgid "This shift collides with one of your shifts."
+msgstr "یہ تبدیلی آپ شفٹوں میں سے ایک کے ساتھ کوللاڈیس ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:75
+msgid "You are signed up for this shift."
+msgstr "آپ اس تبدیلی کے لئے سائن ان ہیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/Shifts_view.php:104
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:240
+msgid "Location"
+msgstr "مقام"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:12
+#, php-format
+msgid "Do you want to delete shifttype %s?"
+msgstr "آپ شافٹیپی %s حذف کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:27
+msgid "Edit shifttype"
+msgstr "شافٹیپی کی تدوین کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:27
+msgid "Create shifttype"
+msgstr "شافٹیپی بنائیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:46
+#, php-format
+msgid "for team %s"
+msgstr "ٹیم برائے %s"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/ShiftTypes_view.php:71
+msgid "New shifttype"
+msgstr "نیا شافٹیپی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:7
+msgid "Please select..."
+msgstr "براہ مہربانی منتخب کریں..."
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:31
+msgid ""
+"Do you really want to delete the user including all his shifts and every "
+"other piece of his data?"
+msgstr ""
+"آپ واقعی اپنے تمام شفٹوں اور اپنے کوائف کے ہر دوسرے ٹکڑا سمیت صارف حذف کرنا "
+"چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:33
+msgid "Your password"
+msgstr "آپ کا پاس ورڈ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:48
+#, php-format
+msgid "Angel should receive at least  %d vouchers."
+msgstr "فرشتہ چاہیے وصول کریں کم از کم %d ووچرز ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:50
+msgid "Number of vouchers given out"
+msgstr "نمبر ووچرز دیا ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:64
+msgid "m/d/Y h:i a"
+msgstr "m/d/Y h:i ایک"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:83
+msgid "New user"
+msgstr "نیا صارف"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:87
+msgid "Prename"
+msgstr "پرینمی"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:90
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:208
+msgid "Arrived"
+msgstr "پہنچے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:91
+msgid "Voucher"
+msgstr "واؤچر"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:92
+msgid "Freeloads"
+msgstr "فریلوادس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:93
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:210
+msgid "Active"
+msgstr "ایکٹو"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:95
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:211
+msgid "T-Shirt"
+msgstr "شرٹ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:97
+msgid "Last login"
+msgstr "آخری لاگ ان"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:113
+msgid "Free"
+msgstr "مفت"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:117
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:119
+#, php-format
+msgid "Next shift %c"
+msgstr "آئندہ shift %c"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:124
+#, php-format
+msgid "Shift starts %c"
+msgstr "%c شفٹ شروع ہوتا ہے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:126
+#, php-format
+msgid "Shift ends %c"
+msgstr "%c شفٹ ختم ہوتا ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:176
+msgid "sign off"
+msgstr "سائن"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:187
+msgid "Sum:"
+msgstr "خلاصہ:"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:205
+msgid "User state"
+msgstr "صارف ریاست"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:208
+#, php-format
+msgid "Arrived at %s"
+msgstr "%s میں پہنچے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:208
+#, php-format
+msgid "Not arrived (Planned: %s)"
+msgstr "نہیں پہنچی (مدبَّر: %s)"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:208
+msgid "Not arrived"
+msgstr "نہ پہنچے"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:209
+#, php-format
+msgid "Got %s voucher"
+msgid_plural "Got %s vouchers"
+msgstr[0] "%s واؤچر مل گیا"
+msgstr[1] "%s Voucher bekommen"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:209
+msgid "Got no vouchers"
+msgstr "کوئی ووچرز مل گیا"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:218
+msgid "Rights"
+msgstr "حقوق"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:226
+msgid "driving license"
+msgstr "ڈرائیونگ لائسنس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:228
+msgid "Edit vouchers"
+msgstr "ووچرز تدوین کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:230
+msgid "iCal Export"
+msgstr "iCal برآمد"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:231
+msgid "JSON Export"
+msgstr "جساون برآمد"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:241
+msgid "Name &amp; workmates"
+msgstr "نام و وورکمیٹس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:242
+msgid "Comment"
+msgstr "تبصرہ"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:243
+msgid "Action"
+msgstr "عمل"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:245
+msgid "Your night shifts between 2 and 8 am count twice."
+msgstr "2 اور 8 بجے کے درمیان اپنی رات کی شفٹوں کو دو مرتبہ شمار."
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:246
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\">shifts table</a> to sign yourself up for some "
+"shifts."
+msgstr ""
+"اپنے آپ کو کچھ شفٹوں کے لئے سائن ان کرنا <a href=\"%s\">شفٹس جدول</a> کے لیے "
+"جائیں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:256
+msgid ""
+"We will send you an e-mail with a password recovery link. Please use the "
+"email address you used for registration."
+msgstr ""
+"ہم آپ کو ایک پاس ورڈ وصولی کے لنک کے ساتھ ایک ای میل بھیجیں گے ۔ آپ رجسٹریشن "
+"کے لئے استعمال کا ای میل ایڈریس استعمال کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:259
+msgid "Recover"
+msgstr "باز یافت کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/User_view.php:270
+msgid "Please enter a new password."
+msgstr "ایک نیا پاس ورڈ داخل کریں ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:5
+#, php-format
+msgid "Do you really want to add coordinator rights for %s to %s?"
+msgstr "آپ واقعی کوآرڈینیٹر حقوق برائے %s %s پر اضافہ کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:5
+#, php-format
+msgid "Do you really want to remove coordinator rights for %s from %s?"
+msgstr "آپ واقعی %s کے لیے کوآرڈینیٹر حقوق سے %s ہٹانا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:16
+#, php-format
+msgid "Do you really want to deny all users for %s?"
+msgstr "آپ واقعی %s کے لیے تمام صارفین سے انکار کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:27
+#, php-format
+msgid "Do you really want to confirm all users for %s?"
+msgstr "آپ واقعی %s کے لیے تمام صارفین کی تصدیق کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:38
+#, php-format
+msgid "Do you really want to confirm %s for %s?"
+msgstr "آپ واقعی %s %s کے لیے تصدیق کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:49
+#, php-format
+msgid "Do you really want to delete %s from %s?"
+msgstr "اگر آپ واقعی %s %s سے حذف کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:69
+msgid "User"
+msgstr "صارف"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:78
+#, php-format
+msgid "Do you really want to add %s to %s?"
+msgstr "آپ واقعی %s %s پر اضافہ کرنا چاہتے ہیں؟"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserAngelTypes_view.php:81
+msgid "save"
+msgstr "محفوظ کریں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:17
+msgid "Back to profile"
+msgstr "پروفائل کو واپس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:21
+msgid "Privacy"
+msgstr "نجی نوعیت"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:21
+msgid ""
+"Your driving license information is only visible for coordinators and admins."
+msgstr "اپنے ڈرائیونگ لائسنس کی معلومات صرف ہےجس اور admins کے لیے مرئی ہے ۔"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:22
+msgid "I am willing to operate cars for the PL"
+msgstr "میں گاڑیاں مصیبتیں کے لئے کام کرنے کے لئے تیار ہوں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:25
+msgid ""
+"I have my own car with me and am willing to use it for the PL (You'll get "
+"reimbursed for fuel)"
+msgstr ""
+"مجھے اب اپنی گاڑی میرے ساتھ ہے اور یہ مصیبتیں (آپ کے لئے ایندھن کی باز "
+"ادائگی حاصل کریں گے) کے لئے استعمال کرنے کے لئے تیار ہوں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:26
+msgid "Driver license"
+msgstr "ڈرائیور لائسنس"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:28
+msgid "Transporter 3,5t"
+msgstr "لدنیا 3، 5t"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:29
+msgid "Truck 7,5t"
+msgstr "ٹرک 7، 5t"
+
+#: /Users/arunimas/workspace/projects/engelsystem/includes/view/UserDriverLicenses_view.php:30
+msgid "Truck 12,5t"
+msgstr "ٹرک 12، 5t"
+
+#: /Users/arunimas/workspace/projects/engelsystem/public/index.php:147
+msgid "No Access"
+msgstr "رسائی نہیں"
+
+#: /Users/arunimas/workspace/projects/engelsystem/public/index.php:148
+msgid ""
+"You don't have permission to view this page. You probably have to sign in or "
+"register in order to gain access!"
+msgstr ""
+"آپ اس صفحہ کو دیکھنے کی اجازت نہیں ہے ۔ آپ کو شاید میں سائن ان کریں یا رجسٹر "
+"تک رسائی حاصل کرنے کے لئے آنا پڑے گا!"
+
+msgid " vouchers."
+msgstr "ووچرز ۔"
+
+msgid ""
+"This is a automatically calculated MINIMUM value, you can of course give out "
+"more if appropriate!"
+msgstr ""
+"یہ ایک محسوب خود بخود کم سے کم قدر ہے، آپ یقیناً زیادہ باہر اگر مناسب ہو تو "
+"دے سکتے ہیں!"
+
+msgid "You have been signed off from the shift."
+msgstr "آپ سے شفٹ دستخط کیے گئے ہیں ۔"
+
+msgid "planned departure"
+msgstr "مجوزہ روانگی"
+
+msgid "Tasks"
+msgstr "مجموعہ کار"
+
+msgid "User didnt got vouchers."
+msgstr "صارف ووچرز حاصل نہ کر سکی ۔"
+
+msgid "Remove vouchers"
+msgstr "ووچرز ہٹائیں"
+
+msgid ""
+"This shift is running now or ended already. Please contact a dispatcher to "
+"join the shift."
+msgstr ""
+"یہ تبدیلی اب چل رہا ہے یا پہلے ہی ختم ہو گیا ۔ اس تبدیلی میں شامل ہونے کے "
+"لئے ایک ڈسپیچر سے رابطہ کریں ۔"
+
+msgid ""
+"You already subscribed to shift in the same timeslot. Please contact a "
+"dispatcher to join the shift."
+msgstr ""
+"اگر آپ پہلے ہی ایک ہی ٹامیسلوٹ میں منتقل اپنایا ۔ اس تبدیلی میں شامل ہونے کے "
+"لئے ایک ڈسپیچر سے رابطہ کریں ۔"
+
+msgid ""
+"Hello %s, here you can change your personal settings i.e. password, color "
+"settings etc."
+msgstr ""
+"%s میں خوش آمدید، یہاں آپ کو آپ کی ذاتی سیٹنگیں تبدیل کر سکتے ہیں یعنی پاس "
+"ورڈ، رنگ، سیٹنگیں وغیرہ ۔"
+
+msgid "Name/Description:"
+msgstr "نام/تفصیل:"
+
+msgid "Timeslot"
+msgstr "ٹامیسلوٹ"
+
+msgid "The first wants to join %s."
+msgstr "%s میں شامل ہونے کے لیے سب سے پہلے چاہتا ہے ۔"
+
+msgid "Groups"
+msgstr "گروپس"
+
+msgid "ICQ"
+msgstr "اکق"
+
+msgid "You are not confirmed for this angel type."
+msgstr "آپ اس فرشتہ کی قسم کے لیے تصدیق نہیں کی ہیں ۔"
+
+msgid "Exports"
+msgstr "برآمدات"
+
+msgid "Current ends in %s min"
+msgstr "%s منٹ میں حالیہ ختم ہو جاتا ہے"
+
+msgid "Add new angeltype"
+msgstr "نئے انگیلٹیپی کا ا ضافہ کریں"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "You have %s new message."
+msgid_plural "You have %s new messages."
+msgstr[0] "آپ کو %s نئے پیغام ہے ۔"
+msgstr[1] "آپ نے٪ s نئے پیغامات"
+
+msgid ""
+"These are your shifts.<br/>Please try to appear <b>15 minutes</b> before "
+"your shift begins!<br/>You can remove yourself from a shift up to %d hours "
+"before it starts."
+msgstr ""
+"یہ اپنے شفٹوں ہیں ۔<br>براہ مہربانی آپ shift کے آغاز سے پہلے <b>15 منٹ</b> "
+"ظاہر کرنے کی کوشش کریں!<br>آپ اپنے آپ کو %d گھنٹے تک اسے شروع کرنے سے پہلے "
+"ایک تبدیلی سے ہٹا سکتے ہیں ۔"
+
+msgid "Page:"
+msgstr "صفحہ:"
+
+msgid "Message:"
+msgstr "پیغام:"
+
+msgid "Wakeup"
+msgstr "غیر"
+
+msgid "Broken date!"
+msgstr "ٹوٹا ہوا تاریخ!"
+
+msgid "Incomplete call, missing wake-up ID."
+msgstr "نامکمل کال بعد اپ شناخت غائب،"
+
+msgid "Wake-up call deleted."
+msgstr "حذف شدہ جاگو ۔"
+
+msgid "No wake-up found."
+msgstr "کوئی بعد پایا اپ ۔"
+
+msgid ""
+"Hello %s, here you can register for a wake-up call. Simply say when and "
+"where the angel should come to wake you."
+msgstr ""
+"ہیلو %s، یہاں آپ ایک جاگو کے لئے رجسٹر کر سکتے ہیں ۔ بس جب اور جہاں فرشتہ آپ "
+"بھیجنے کو کہتا ہے ۔"
+
+msgid "All ordered wake-up calls, next first."
+msgstr "سب بعد اپ کالز، اگلے پہلے کا حکم دیا ۔"
+
+msgid "Place"
+msgstr "جگہ"
+
+msgid "Notes"
+msgstr "نوٹس"
+
+msgid "Schedule a new wake-up here:"
+msgstr "ایک نیا بعد اپ یہاں کی میقات بندی:"
+
+msgid "User %s confirmed as %s."
+msgstr "صارف %s %s کے طور پر اس بات کی تصدیق ہے ۔"
+
+msgid ""
+"Resistance is futile! Your biological and physical parameters will be added "
+"to our collectiv! Assimilating angel:"
+msgstr ""
+"مزاحمت بیکار ہے! ہمارے کوللیکٹاو کے لیے اپنے حیاتیاتی اور جسمانی پیرامیٹر "
+"شامل نہیں کیا جائے گا! فرشتہ تُرک:"
+
+msgid "Confirmed all."
+msgstr "سب اس بات کی تصدیق ہے ۔"
+
+msgid "asdf"
+msgstr "اسدف"
